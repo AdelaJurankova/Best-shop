@@ -1,0 +1,13 @@
+*root{
+    --primary-color:var#08A6E4;
+    --primary-shadow-color:rgba(7,172,230,.16);
+    --Red-accent:var(--Red-accent)(color-redish) 832cb31f-c0e4-4c7c-8cfd-8120400cc2;
+    --green-accent:var((color-green) #55DFB4);
+    --black-color:var(Black (color-black) #000000);
+    --grey-color:var(Grey (color-grey) #A5A5A5);
+    --grey-light-color:var(Light grey (color-light-grey) #F7F7F7);
+    --white-color:var(White (color-white) #FFFFFF);
+    --font-raleway: "Raleway", sans-serif;
+    --font-open-sans: "Open Sans", open;
+    
+}
